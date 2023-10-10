@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **JAVA, PYTHON**
+- 💬 Ask me about **JAVA, PYTHON, HTML, CSS, JS**
 
 - 📫 How to reach me **vishnuraveendran363@gmail.com**
 
