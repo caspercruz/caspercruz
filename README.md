@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caspercruz&label=Profile%20views&color=0e75b6&style=flat" alt="caspercruz" /> </p>
 
-- 🔭 I’m currently working on **JARVIS AI**
+- 🔭 I’m currently working on **Law based WebApplication using AI**
 
 - 🌱 I’m currently learning **Machine learning**
 
